@@ -4,7 +4,7 @@ var password =  document.getElementById('password').value;
   // usernames & passwords
 if ((username=='ellabc23'&& password=='lucaslove143')
     (username=='flowerjasmine' && password=='YASSister')
-    (username=='the secret' && password=='life of pets')
+    (username=='thesecretlifeofpets' && password=='2')
     (username=='thedailykaylee'&& password=='frodopup')
     (username=='Minecrafter'&& password=='sleep')
     (username=='guest1'&& password=='adventureguest')
